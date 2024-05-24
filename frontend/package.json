@@ -1,8 +1,8 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "versionSystem": "4.5.0",
-  "nomeEmpresa": "PLW Design",
+  "versionSystem": "1.4.5.0",
+  "nomeEmpresa": "Klepet",
   "private": true,
   "dependencies": {
 	"@emotion/styled": "^11.10.6",
